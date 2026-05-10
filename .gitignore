@@ -1,0 +1,7 @@
+# NetBeans files 
+nbproject/ 
+build/ 
+dist/ 
+*.war 
+*.ear 
+.DS_Store 
